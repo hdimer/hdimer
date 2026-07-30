@@ -19,4 +19,5 @@ Below is what I've been making lately. If you'd rather ask than read, my site an
 - **[postcss](https://github.com/postcss/postcss)** ![stars](https://img.shields.io/github/stars/postcss/postcss?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — The CSS transformer behind Tailwind, Next.js, and autoprefixer, and much of the modern web build toolchain.
 - **[sqlfluff](https://github.com/sqlfluff/sqlfluff)** ![stars](https://img.shields.io/github/stars/sqlfluff/sqlfluff?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A modular SQL linter and auto-formatter with support for many dialects.
 - **[sqlglot](https://github.com/tobymao/sqlglot)** ![stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A Python SQL parser, transpiler, and optimizer spanning 20+ SQL dialects.
+- **[chroma](https://github.com/alecthomas/chroma)** ![stars](https://img.shields.io/github/stars/alecthomas/chroma?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A general-purpose syntax highlighter in pure Go, with lexers for hundreds of languages.
 <!-- CONTRIBUTING:END -->
