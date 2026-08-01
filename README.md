@@ -17,6 +17,7 @@ Below is what I've been making lately. If you'd rather ask than read, my site an
 
 <!-- CONTRIBUTING:START (auto-maintained; one entry per project I've had a PR merged into) -->
 - **[postcss](https://github.com/postcss/postcss)** ![stars](https://img.shields.io/github/stars/postcss/postcss?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — The CSS transformer behind Tailwind, Next.js, and autoprefixer, and much of the modern web build toolchain.
+- **[gitoxide](https://github.com/GitoxideLabs/gitoxide)** ![stars](https://img.shields.io/github/stars/GitoxideLabs/gitoxide?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A pure-Rust implementation of Git, built as fast and safe command-line tools and libraries.
 - **[sqlfluff](https://github.com/sqlfluff/sqlfluff)** ![stars](https://img.shields.io/github/stars/sqlfluff/sqlfluff?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A modular SQL linter and auto-formatter with support for many dialects.
 - **[sqlglot](https://github.com/tobymao/sqlglot)** ![stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A Python SQL parser, transpiler, and optimizer spanning 20+ SQL dialects.
 - **[chroma](https://github.com/alecthomas/chroma)** ![stars](https://img.shields.io/github/stars/alecthomas/chroma?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A general-purpose syntax highlighter in pure Go, with lexers for hundreds of languages.
