@@ -16,6 +16,7 @@ Below is what I've been making lately. If you'd rather ask than read, my site an
 ### Contributing to
 
 <!-- CONTRIBUTING:START (auto-maintained; one entry per project I've had a PR merged into) -->
+- **[marked](https://github.com/markedjs/marked)** ![stars](https://img.shields.io/github/stars/markedjs/marked?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A markdown parser and compiler. Built for speed.
 - **[postcss](https://github.com/postcss/postcss)** ![stars](https://img.shields.io/github/stars/postcss/postcss?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — The CSS transformer behind Tailwind, Next.js, and autoprefixer, and much of the modern web build toolchain.
 - **[burn](https://github.com/tracel-ai/burn)** ![stars](https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A Rust deep-learning framework and tensor library built for flexibility, efficiency, and portability across backends.
 - **[gitoxide](https://github.com/GitoxideLabs/gitoxide)** ![stars](https://img.shields.io/github/stars/GitoxideLabs/gitoxide?style=flat-square&label=%E2%98%85&labelColor=1a1a1a&color=555) — A pure-Rust implementation of Git, built as fast and safe command-line tools and libraries.
