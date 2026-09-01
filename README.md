@@ -12,6 +12,7 @@ Below is what I've been making lately. If you'd rather ask than read, my site an
 - **[earshot](https://github.com/hdimer/earshot)** — Turns books into multi-episode podcasts. Next.js 16, Neon, and Cloudflare R2, built to actually listen to.
 - **[code-index](https://github.com/hdimer/code-index)** — Semantic code search as an MCP server, backed by Milvus. So an agent can find code by meaning, not just grep.
 - **[live-poll-kit](https://github.com/hdimer/live-poll-kit)** — Drop-in live polling with QR codes for talks and classrooms. Vercel plus Neon, five-minute setup.
+- **[mockup-compare](https://github.com/hdimer/mockup-compare)** — Ask for ten design mockups and get five grounded plus five that break the rules. A Claude skill and a dependency-free viewer to judge them side by side.
 
 ### Contributing to
 
